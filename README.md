@@ -4,7 +4,7 @@
 
 ## Install
 ```
-npm install -g https://github.com/jen6/workDiary
+npm install -g https://github.com/ocipap/workDiary
 ```
 
 ## Usage
