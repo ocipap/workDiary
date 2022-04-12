@@ -188,6 +188,7 @@ async function createSheet(fileName, userInfo, workInfos, year, imgData) {
       x: workMemoPoint.x,
       y: workMemoPoint.y - fontSize - height*i,
       size: fontSize,
+      lineHeight: fontSize * 1.5,
     })
 
     fontSize = 6
